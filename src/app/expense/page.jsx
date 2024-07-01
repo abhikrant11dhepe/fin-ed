@@ -9,7 +9,7 @@ const Expense = () => {
           
           <div className="flex-grow p-6 mt-8">
             <div className="bg-blue-200 border-2 h-[800px] w-[1300px] border-slate-400 rounded-3xl mt-10 ml-80">
-              {/* Your content goes here */}
+              
             </div>
           </div>
         </div>

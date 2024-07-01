@@ -9,7 +9,7 @@ const SideBar = () => {
     <div className='w-[250px] h-[800px] absolute top-1/2 -translate-y-1/2 p-6 rounded-r-3xl bg-blue-200 border-2 border-slate-400 mt-8'>
         <div>
         <h2 className='text-sm font-semibold uppercase text-secondary-foreground/70'>Welcome</h2>
-            <h2 className='text-xl font-semibold'>Abhikrant Dhepe</h2>
+            <h2 className='text-xl font-semibold'>abhikrant_11</h2>
         </div>
         <Separator className='mt-2 text-gray-500 bg-gray-500 mb-8'/>
 
