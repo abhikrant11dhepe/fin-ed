@@ -42,7 +42,9 @@ const Expense = () => {
     food: 'yellow',
     travel: 'blue',
     entertainment: 'green',
-    study: 'purple'
+    study: 'purple',
+    friends: 'orange',
+    bills: 'brown',
   };
 
   const handleAddExpense = (formData) => {
@@ -176,6 +178,9 @@ const Expense = () => {
                                   <option value="food">Food</option>
                                   <option value="travel">Travel</option>
                                   <option value="entertainment">Entertainment</option>
+                                  <option value="study">Study</option>
+                                  <option value="friends">Friends</option>
+                                  <option value="bills">Bills</option>
                                 </select>
                               </FormControl>
                               <FormMessage />
